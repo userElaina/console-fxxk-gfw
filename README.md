@@ -1,5 +1,5 @@
 # wsl2 powershell fuck gfw
-关于如何在WSL2和PowerShell里用代理这件事
+关于如何在WSL2和PowerShell里使用代理这件事
 
 ---
 v2rayNG
