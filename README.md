@@ -1,4 +1,4 @@
-# wsl2/powershell-fuck-gfw
+# wsl2 powershell fuck gfw
 关于如何在WSL2和PowerShell里用代理这件事
 
 ---
