@@ -1,5 +1,5 @@
 # wsl powershell fuck gfw
-关于如何在WSL和PowerShell里使用代理这件事
+关于如何在WSL和cmd里使用代理这件事
 
 ---
 v2rayNG
@@ -11,7 +11,8 @@ WSL
 export http_proxy="http://127.0.0.1:1001"
 export https_proxy="http://127.0.0.1:1001"
 ```
-Windows PowerShell
+
+cmd
 ```sh
 set http_proxy=http://127.0.0.1:1001
 set https_proxy=http://127.0.0.1:1001
@@ -29,7 +30,7 @@ export http_proxy="http://127.0.0.1:1000"
 export https_proxy="http://127.0.0.1:1000"
 ```
 
-Windows PowerShell
+cmd
 ```sh
 set http_proxy=http://127.0.0.1:1000
 set https_proxy=http://127.0.0.1:1000
