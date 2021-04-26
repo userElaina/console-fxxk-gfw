@@ -1,4 +1,4 @@
-# wsl powershell fuck gfw
+# wsl cmd fuck gfw
 关于如何在WSL和cmd里使用代理这件事
 
 ---
@@ -20,9 +20,9 @@ set https_proxy=http://127.0.0.1:1001
 我也不知道为什么要+1.
 
 ---
-clash
+其它
 ---
-(假设clash设置端口为1000)
+(假设设置端口为1000)
 
 WSL
 ```sh
