@@ -1,4 +1,4 @@
-# wsl cmd fuck gfw
+# How to use proxies in WSL & cmd
 \#新手向
 \#个人笔记
 
@@ -12,7 +12,7 @@
 
 端口是多少在这里看(Windows 10):
 
-![image](https://user-images.githubusercontent.com/80948381/116335193-03642980-a809-11eb-9890-6253d6a88fd0.png)
+![image](https://user-images.githubusercontent.com/80948381/116335839-1a574b80-a80a-11eb-8867-30f40d50588e.png)
 
 其它系统请自行Google.
 
