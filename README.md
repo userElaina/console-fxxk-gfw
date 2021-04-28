@@ -12,7 +12,7 @@
 
 端口是多少在这里看(Windows 10):
 
-![image](https://user-images.githubusercontent.com/80948381/116335839-1a574b80-a80a-11eb-8867-30f40d50588e.png)
+![image](https://user-images.githubusercontent.com/80948381/116337014-14fb0080-a80c-11eb-8c2c-1af295cb690c.png)
 
 其它系统请自行Google.
 
@@ -35,6 +35,6 @@ set https_proxy=http://127.0.0.1:1001
 ---
 v2rayN里设置端口为1000(如下图)时,实际端口会是1001(即+1了).
 
-![QQ图片20210428095802](https://user-images.githubusercontent.com/80948381/116334722-4376dc80-a808-11eb-8b6f-0db5a7a55daa.png)
+![image](https://user-images.githubusercontent.com/80948381/116334722-4376dc80-a808-11eb-8b6f-0db5a7a55daa.png)
 
 我也不知道为什么要+1.
