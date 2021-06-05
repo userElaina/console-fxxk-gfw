@@ -17,7 +17,7 @@
 其它系统请自行Google.
 
 ---
-v2rayNG
+WSL
 ---
 ```sh
 export http_proxy="http://127.0.0.1:1001"
